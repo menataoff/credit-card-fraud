@@ -4,4 +4,5 @@ data
 __pycache__
 catboost_info
 notebooks/catboost_info
+notebooks/fraud_detection_EASY.ipynb
 models/
